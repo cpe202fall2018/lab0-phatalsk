@@ -3,6 +3,7 @@ def weight_on_planets():
    pass
    # GitHub tests
    # Test #2
+   # Test #3
    
    
 if __name__ == '__main__':
